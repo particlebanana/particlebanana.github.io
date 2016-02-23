@@ -1,0 +1,34 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: particlebanana
+tagline: hello
+description: >
+  co-founder <a href="https://treeline.io" target="_blank">treeline</a>. </br>
+  havoc maker on <a href="https://github.com/balderdashy/sails" target="_blank">sails</a> and
+  <a href="https://github.com/balderdashy/waterline" target="_blank">waterline</a>.
+
+url: http://blog.particlebanana.com
+paginate: 5
+baseurl: ""
+
+# Assets
+sass:
+  style: :compressed
+
+# About/contact
+author:
+  name: Cody Stoltman
+  url: https://twitter.com/particlebanana
+  email: particlebanana@gmail.com
+
+# Custom vars
+version: 2.1.0
+github:
+  repo: https://github.com/poole/hyde
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
